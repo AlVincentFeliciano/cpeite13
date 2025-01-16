@@ -33,9 +33,9 @@ function App() {
     0: "Having A Strong Work Ethic",
     "RESET": "10 Things That Require Zero Talent",
     "NAME": "AL VINCENT FELICIANO",
-    "What I learned?": "Being dedicated.",
-    "What I want to learn?": "Developing websites.",
-    "How will I learn?": "By studying and practicing hard."
+    "What I learned?": "In web development, I learned how to build and design interactive and user-friendly websites by combining various technologies like HTML, CSS, and JavaScript.",
+    "What I want to learn?": "I want to learn how to create more complex and dynamic websites, improve my skills in using frameworks like React, and understand backend development to build full-stack applications.",
+    "How will I learn?": "I will learn by practicing regularly, building projects, studying online tutorials, and exploring documentation. I'll also seek feedback, collaborate with others, and stay updated with the latest trends and technologies in web development."
   };
 
   const buttonClickHandler = (e) => {
